@@ -36,6 +36,8 @@ la suite apres la parenthèse c'est la description du commit pour savoir ce que 
 
 ### Task 6
 
+les fichier reel retrouve l'etat de base donc sans rien comme a la copie du projet.
+
 ## Gitgraph
 
 ### Task 7
