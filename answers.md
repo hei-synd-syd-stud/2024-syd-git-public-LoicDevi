@@ -43,3 +43,23 @@ les fichier reel retrouve l'etat de base donc sans rien comme a la copie du proj
 ### Task 7
 
 ![Gitgraph](img/gitgraph.svg)
+
+1.nom de la branche en question
+
+2. hachage du commit de la branche
+
+3. merge de de branche ensemble
+
+4. qui as fait le merge
+
+5. la version du main
+
+6. la  branche secondaire develop(son dernier push)
+
+7. une branche secondaire feature-auth qui va merge sur l'autre branche secondaire
+
+8. la fin du main actuel
+
+9. le debut de la branche develope
+
+10. le debut du projet git sois le debut du main
